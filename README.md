@@ -1,1 +1,1 @@
-# app a simple restful api using slim frameworl
+# app a simple restful api using slim framework
